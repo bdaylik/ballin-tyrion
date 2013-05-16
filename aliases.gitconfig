@@ -1,0 +1,25 @@
+[alias]
+        st = status
+        ci = commit
+        br = branch
+        co = checkout
+        df = diff
+        lg = log -p
+        lol = log --graph --decorate --pretty=oneline --abbrev-commit
+        lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
+        ls = ls-files
+        unstage = reset HEAD --
+        info = git-info
+        feature = git-feature
+        bug = git-bug
+        chore = git-chore
+        finish = git-finish
+        hfe = hf feature
+        hfeco = hf feature checkout
+        hre = hf release
+        hpl = hf pull
+        hph = hf push
+        hhf = hf hotfix
+        hup = hf update
+        h = hf
+
