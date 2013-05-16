@@ -2,4 +2,4 @@
 
 * bu ne
 * arkadas
-* ya off!!!
+* yufff!!! // off yok ya :D
